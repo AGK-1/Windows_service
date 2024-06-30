@@ -1,0 +1,156 @@
+﻿Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service Service1...
+Creating EventLog source Service1 in log Application...
+Rolling back assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Restoring event log to previous state for source Service1.
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service AGK Kimg...
+Service AGK Kimg has been successfully installed.
+Creating EventLog source AGK Kimg in log Application...
+Committing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+Installing service AGK Kimg...
+Service AGK Kimg has been successfully installed.
+Creating EventLog source AGK Kimg in log Application...
+Committing assembly 'C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.InstallLog
+   assemblypath = C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe

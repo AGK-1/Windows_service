@@ -1,0 +1,9 @@
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe.config
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.pdb
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\obj\Debug\Windows_service.csproj.AssemblyReference.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\obj\Debug\Windows_service.ProjectInstaller.resources
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\obj\Debug\Windows_service.csproj.GenerateResource.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\obj\Debug\Windows_service.csproj.CoreCompileInputs.cache
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\obj\Debug\Windows_service.exe
+C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\obj\Debug\Windows_service.pdb

@@ -1,0 +1,112 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B2F67-9152-476F-B80A-D0BBCB13102E}|Windows_service\\Windows_service.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\windows_service\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B2F67-9152-476F-B80A-D0BBCB13102E}|Windows_service\\Windows_service.csproj|solutionrelative:windows_service\\projectinstaller.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B2F67-9152-476F-B80A-D0BBCB13102E}|Windows_service\\Windows_service.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\windows_service\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B2F67-9152-476F-B80A-D0BBCB13102E}|Windows_service\\Windows_service.csproj|solutionrelative:windows_service\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B2F67-9152-476F-B80A-D0BBCB13102E}|Windows_service\\Windows_service.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\windows_service\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E0B2F67-9152-476F-B80A-D0BBCB13102E}|Windows_service\\Windows_service.csproj|solutionrelative:windows_service\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B2F67-9152-476F-B80A-D0BBCB13102E}|Windows_service\\Windows_service.csproj|C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\windows_service\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4E0B2F67-9152-476F-B80A-D0BBCB13102E}|Windows_service\\Windows_service.csproj|solutionrelative:windows_service\\projectinstaller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0B2F67-9152-476F-B80A-D0BBCB13102E}|Windows_service\\Windows_service.csproj|c:\\users\\wikto\\onedrive\\desktop\\githop\\windows_service\\windows_service\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0B2F67-9152-476F-B80A-D0BBCB13102E}|Windows_service\\Windows_service.csproj|solutionrelative:windows_service\\service1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectInstaller.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\Windows_service\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "Windows_service\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\Windows_service\\ProjectInstaller.cs [Design]",
+              "RelativeToolTip": "Windows_service\\ProjectInstaller.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:20:06.48Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProjectInstaller.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\Windows_service\\ProjectInstaller.Designer.cs",
+              "RelativeDocumentMoniker": "Windows_service\\ProjectInstaller.Designer.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\Windows_service\\ProjectInstaller.Designer.cs",
+              "RelativeToolTip": "Windows_service\\ProjectInstaller.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:20:44.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service1.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\Windows_service\\Service1.cs",
+              "RelativeDocumentMoniker": "Windows_service\\Service1.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\Windows_service\\Service1.cs",
+              "RelativeToolTip": "Windows_service\\Service1.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEEAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T20:11:09.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectInstaller.cs",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\Windows_service\\ProjectInstaller.cs",
+              "RelativeDocumentMoniker": "Windows_service\\ProjectInstaller.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\Windows_service\\ProjectInstaller.cs",
+              "RelativeToolTip": "Windows_service\\ProjectInstaller.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:20:12.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Service1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\Windows_service\\Service1.cs",
+              "RelativeDocumentMoniker": "Windows_service\\Service1.cs",
+              "ToolTip": "C:\\Users\\wikto\\OneDrive\\Desktop\\githop\\Windows_service\\Windows_service\\Service1.cs [Design]",
+              "RelativeToolTip": "Windows_service\\Service1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T19:19:28.552Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

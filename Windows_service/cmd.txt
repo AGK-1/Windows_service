@@ -1,0 +1,5 @@
+cd C:\Windows\Microsoft.NET\Framework\v4.0.30319
+
+InstallUtil.exe C:\Users\wikto\OneDrive\Desktop\lessone\c-charpok\Windows_service\Windows_service\bin\Debug\Windows_service.exe
+
+sc delete "ИмяСлужбы"
